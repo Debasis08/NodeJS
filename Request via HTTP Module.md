@@ -52,7 +52,7 @@ To run the example, save the code to a file (e.g., `getRequest.js`) and execute 
 node getRequest.js
 ```
 
-After running the command, the script will make an HTTP GET request to `www.geeksforgeeks.org/courses`, and you should see the HTTP status code of the response printed to the console.
+After running the command, the script will make an HTTP GET request to `https://github.com/Debasis08`, and you should see the HTTP status code of the response printed to the console.
 
 ### Conclusion
 
